@@ -1,6 +1,6 @@
 import { Code, Palette, Zap, Heart } from 'lucide-react';
 import './About.css';
-import image from "../assets/images/FB_IMG_1750815870848.jpg"
+import image from "../../assets/images/profile.jpg"
 
 function About() {
   const skills = [
